@@ -35,6 +35,8 @@ gen_embd = ->
           <ModulePrefs title="svgio_0.1 generated gadget" />
           <Content type="html">
              <![CDATA[
+               <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+               <script type="text/javascript" src="http://talos.github.com/jquery-svgpan/jquery-svgpan.js"></script>
                <script type="text/javascript" src="https://raw.github.com/jp-a/svg-gsi/master/svgpan/#{ dirname }/#{ filename }.js"></script>
              ]]>
           </Content>
