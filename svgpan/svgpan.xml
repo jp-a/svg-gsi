@@ -3,7 +3,7 @@
   <ModulePrefs title="svg-gsi test" />
   <Content type="html">
      <![CDATA[
-       <script type="text/javascript" src="https://raw.github.com/jp-a/svg-gsi/master/svgpan/svgpan.js"></script>
+       <script type="text/javascript" src="https://raw.github.com/jp-a/svg-gsi/master/svgpan/svg-pan.js"></script>
      ]]>
   </Content> 
 </Module>
