@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+    <ModulePrefs title="Hello World Google Site Gadget Example" />
+    <Content type="html">
+        <![CDATA[
+       Hello, world! (From the Google Site Gadget)
+     ]]>
+    </Content>
+</Module>
