@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="svgio_0.1 generated gadget" />
+  <Content type="html">
+     <![CDATA[
+       <script type="text/javascript" src="https://raw.github.com/jp-a/svg-gsi/master/svgpan/docs/ea/ea_metamodel.js"></script>
+     ]]>
+  </Content>
+</Module>
