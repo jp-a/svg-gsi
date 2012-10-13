@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="svg-gsi test" />
+  <Content type="html">
+     <![CDATA[
+        https://raw.github.com/jp-a/svg-gsi/master/viewer/test/
+       <script type="text/javascript" src="https://raw.github.com/jp-a/svg-gsi/master/viewer/GraphMLViewer.js"></script>
+       <script type="text/javascript" src="https://raw.github.com/jp-a/svg-gsi/master/viewer/test/graphml.js"></script>
+     ]]>
+  </Content> 
+</Module>
