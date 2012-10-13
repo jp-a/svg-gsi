@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-    <ModulePrefs title="svg-gsi test"/>
+    <ModulePrefs title="svg-gsi embeded within the Gadget"/>
     <Content type="html">
         <![CDATA[
 <?xml version="1.0" encoding="UTF-8"?>
