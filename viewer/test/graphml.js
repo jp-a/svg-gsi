@@ -1,7 +1,7 @@
 if (!RunPlayer(
         "width", "95%",
         "height", "600",  //Internet Explorer may interpret relative sizes in tables as 0
-        "graphURL", "http://www.avelto.com/nudge/svgio/GraphMLViewer/GraphMLViewer/examplegraphs/example2.graphml",
+        "graphURL", "https://raw.github.com/jp-a/svg-gsi/master/viewer/test/ea_framework.graphml",
         "overview", "true",
         "toolbar", "true",
         "tooltips", "true",
