@@ -384,3 +384,5 @@ document.write( svg );
 		});
 	};
 }));
+
+$( 'svg' ).svgPan( 'viewport' );
