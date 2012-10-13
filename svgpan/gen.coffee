@@ -43,7 +43,6 @@ gen_embd = ->
         </Module>
         """
 
-
     console.log '  + Writing gadget for', filename
     #console.log gadget
     fs.writeFileSync "./#{ dirname }/#{ filename }.xml", gadget, 'utf8'
