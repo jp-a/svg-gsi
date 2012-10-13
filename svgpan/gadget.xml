@@ -203,7 +203,7 @@
       </g>
     </g>
     <g id="y.node.10">
-      <a xlink:href="[[ea:client]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:client]]" xlink:show="new">
         <g fill="url(#linearGradient4)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient4)">
           <ellipse rx="40" ry="20" cx="329.64" cy="375.1178" stroke="none"/>
           <ellipse rx="40" fill="none" ry="20" cx="329.64" cy="375.1178" stroke="black"/>
@@ -216,7 +216,7 @@
       </a>
     </g>
     <g id="y.node.11">
-      <a xlink:href="[[ea:class]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:class]]" xlink:show="new">
         <g fill="url(#linearGradient5)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient5)">
           <path d="M188.88 506.1778 L268.88 506.1778 L268.88 546.1778 L188.88 546.1778 Z" stroke="none"/>
           <path fill="none" d="M188.88 506.1778 L268.88 506.1778 L268.88 546.1778 L188.88 546.1778 Z" stroke="black"/>
@@ -229,7 +229,7 @@
       </a>
     </g>
     <g id="y.node.12">
-      <a xlink:href="[[ea:process]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:process]]" xlink:show="new">
         <g fill="url(#linearGradient6)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient6)">
           <path d="M188.88 207.8634 L268.88 207.8634 L268.88 247.8634 L188.88 247.8634 Z" stroke="none"/>
           <path fill="none" d="M188.88 207.8634 L268.88 207.8634 L268.88 247.8634 L188.88 247.8634 Z" stroke="black"/>
@@ -242,7 +242,7 @@
       </a>
     </g>
     <g id="y.node.13">
-      <a xlink:href="[[ea:event]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:event]]" xlink:show="new">
         <g fill="url(#linearGradient7)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient7)">
           <path d="M255.04 277.8634 L335.04 277.8634 L335.04 317.8634 L255.04 317.8634 Z" stroke="none"/>
           <path fill="none" d="M255.04 277.8634 L335.04 277.8634 L335.04 317.8634 L255.04 317.8634 Z" stroke="black"/>
@@ -255,7 +255,7 @@
       </a>
     </g>
     <g id="y.node.14">
-      <a xlink:href="[[ea:activity]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:activity]]" xlink:show="new">
         <g fill="url(#linearGradient8)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient8)">
           <path d="M188.88 430.2178 L268.88 430.2178 L268.88 470.2178 L188.88 470.2178 Z" stroke="none"/>
           <path fill="none" d="M188.88 430.2178 L268.88 430.2178 L268.88 470.2178 L188.88 470.2178 Z" stroke="black"/>
@@ -458,7 +458,7 @@
       </g>
     </g>
     <g id="y.node.2">
-      <a xlink:href="[[ae:server]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ae:server]]" xlink:show="new">
         <g fill="url(#linearGradient14)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient14)">
           <path d="M759.9108 592.3284 L839.9108 592.3284 L839.9108 632.3284 L759.9108 632.3284 Z" stroke="none"/>
           <path fill="none" d="M759.9108 592.3284 L839.9108 592.3284 L839.9108 632.3284 L759.9108 632.3284 Z" stroke="black"/>
@@ -471,7 +471,7 @@
       </a>
     </g>
     <g id="y.node.3">
-      <a xlink:href="[[ae:site]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ae:site]]" xlink:show="new">
         <g fill="url(#linearGradient15)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient15)">
           <path d="M759.9108 651.7853 L839.9108 651.7853 L839.9108 691.7853 L759.9108 691.7853 Z" stroke="none"/>
           <path fill="none" d="M759.9108 651.7853 L839.9108 651.7853 L839.9108 691.7853 L759.9108 691.7853 Z" stroke="black"/>
@@ -484,7 +484,7 @@
       </a>
     </g>
     <g id="y.node.4">
-      <a xlink:href="[[ae:network]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ae:network]]" xlink:show="new">
         <g fill="url(#linearGradient16)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient16)">
           <path d="M869.9108 592.3284 L949.9108 592.3284 L949.9108 632.3284 L869.9108 632.3284 Z" stroke="none"/>
           <path fill="none" d="M869.9108 592.3284 L949.9108 592.3284 L949.9108 632.3284 L869.9108 632.3284 Z" stroke="black"/>
@@ -497,7 +497,7 @@
       </a>
     </g>
     <g id="y.node.16">
-      <a xlink:href="[[ea:business]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:business]]" xlink:show="new">
         <g fill="url(#linearGradient17)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient17)">
           <path d="M366 52.8634 L663.9813 52.8634 L663.9813 92.8634 L366 92.8634 Z" stroke="none"/>
           <path fill="none" d="M366 52.8634 L663.9813 52.8634 L663.9813 92.8634 L366 92.8634 Z" stroke="black"/>
@@ -510,7 +510,7 @@
       </a>
     </g>
     <g id="y.node.17">
-      <a xlink:href="[[ea:objectives]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:objectives]]" xlink:show="new">
         <g fill="url(#linearGradient18)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient18)">
           <path d="M154.2 122.8634 L359.225 122.8634 L359.225 162.8634 L154.2 162.8634 Z" stroke="none"/>
           <path fill="none" d="M154.2 122.8634 L359.225 122.8634 L359.225 162.8634 L154.2 162.8634 Z" stroke="black"/>
@@ -523,7 +523,7 @@
       </a>
     </g>
     <g id="y.node.18">
-      <a xlink:href="[[ea:is]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:is]]" xlink:show="new">
         <g fill="url(#linearGradient19)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient19)">
           <path d="M139.2 779.5989 L517.425 779.5989 L517.425 819.5989 L139.2 819.5989 Z" stroke="none"/>
           <path fill="none" d="M139.2 779.5989 L517.425 779.5989 L517.425 819.5989 L139.2 819.5989 Z" stroke="black"/>
@@ -536,7 +536,7 @@
       </a>
     </g>
     <g id="y.node.19">
-      <a xlink:href="[[ea:system]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:system]]" xlink:show="new">
         <g fill="url(#linearGradient20)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient20)">
           <path d="M537.8694 779.5989 L964.9108 779.5989 L964.9108 819.5989 L537.8694 819.5989 Z" stroke="none"/>
           <path fill="none" d="M537.8694 779.5989 L964.9108 779.5989 L964.9108 819.5989 L537.8694 819.5989 Z" stroke="black"/>
@@ -549,7 +549,7 @@
       </a>
     </g>
     <g id="y.node.20">
-      <a xlink:href="[[ea:organization]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:organization]]" xlink:show="new">
         <g fill="url(#linearGradient21)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient21)">
           <path d="M762.875 207.8634 L842.875 207.8634 L842.875 247.8634 L762.875 247.8634 Z" stroke="none"/>
           <path fill="none" d="M762.875 207.8634 L842.875 207.8634 L842.875 247.8634 L762.875 247.8634 Z" stroke="black"/>
@@ -562,7 +562,7 @@
       </a>
     </g>
     <g id="y.node.21">
-      <a xlink:href="[[ea:procedure]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:procedure]]" xlink:show="new">
         <g fill="url(#linearGradient22)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient22)">
           <path d="M583.9813 275.0531 L663.9813 275.0531 L663.9813 315.0531 L583.9813 315.0531 Z" stroke="none"/>
           <path fill="none" d="M583.9813 275.0531 L663.9813 275.0531 L663.9813 315.0531 L583.9813 315.0531 Z" stroke="black"/>
@@ -575,7 +575,7 @@
       </a>
     </g>
     <g id="y.node.22">
-      <a xlink:href="[[ea:operation]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:operation]]" xlink:show="new">
         <g fill="url(#linearGradient23)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient23)">
           <path d="M583.9813 354.2578 L663.9813 354.2578 L663.9813 394.2578 L583.9813 394.2578 Z" stroke="none"/>
           <path fill="none" d="M583.9813 354.2578 L663.9813 354.2578 L663.9813 394.2578 L583.9813 394.2578 Z" stroke="black"/>
@@ -588,7 +588,7 @@
       </a>
     </g>
     <g id="y.node.23">
-      <a xlink:href="[[ea:actor]]">
+      <a target="_blank" xlink:type="simple" xlink:href="[[ea:actor]]" xlink:show="new">
         <g fill="url(#linearGradient24)" stroke-miterlimit="1.45" transform="matrix(1,0,0,1,-70,-37)" stroke-linecap="butt" stroke="url(#linearGradient24)">
           <ellipse rx="40" ry="20" cx="854.9107" cy="374.2578" stroke="none"/>
           <ellipse rx="40" fill="none" ry="20" cx="854.9107" cy="374.2578" stroke="black"/>
